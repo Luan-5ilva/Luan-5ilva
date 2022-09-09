@@ -1,7 +1,7 @@
 # Olá! Eu sou o Luan!
 
 - 🔭 Estou trabalhando com flutter
-- 🌱 atualmente estou aprendendo python
+- 🌱 Atualmente estou aprendendo python
 - 🎓 Cursando ADS/Fatec - RP
 - 🤵 20 anos
 - ⚽ Vasco da Gama
