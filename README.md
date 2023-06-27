@@ -3,7 +3,7 @@
 - 🔭 Estou trabalhando com flutter
 - 🌱 Atualmente estou aprendendo python
 - 🎓 Cursando ADS/Fatec - RP
-- 🤵 20 anos
+- 🤵 21 anos
 - ⚽ Vasco da Gama
 
 
