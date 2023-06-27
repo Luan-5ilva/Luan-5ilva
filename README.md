@@ -1,6 +1,6 @@
 # Olá! Eu sou o Luan!
 
-- 🔭 Estou trabalhando com flutter
+- 💎 Estou trabalhando com flutter
 - 🌱 Atualmente estou aprendendo python
 - 🎓 Cursando ADS/Fatec - RP
 - 🤵 21 anos
