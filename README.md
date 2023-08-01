@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/Luan-5ilva/Luan-5ilva/assets/104392743/067a0714-149e-4890-be71-74ba37b5da2d" width="700px" />
+<img src="https://github.com/Luan-5ilva/Luan-5ilva/assets/104392743/067a0714-149e-4890-be71-74ba37b5da2d" width="1000px" />
 </div>
 
 
