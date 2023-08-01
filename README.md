@@ -8,7 +8,7 @@
 
 
 <div align="center">
-<img src="[https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif](https://github.com/Luan-5ilva/Luan-5ilva/assets/104392743/af49fbd5-1a67-47d9-843e-13a9b6d63f4e)" width="700px" />
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif](https://github.com/Luan-5ilva/Luan-5ilva/assets/104392743/af49fbd5-1a67-47d9-843e-13a9b6d63f4e)" width="700px" />
 </div>
 
 
