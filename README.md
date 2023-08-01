@@ -1,3 +1,15 @@
+
+
+<div align="center">
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif](https://github.com/Luan-5ilva/Luan-5ilva/assets/104392743/af49fbd5-1a67-47d9-843e-13a9b6d63f4e)" width="1500px" />
+</div>
+
+
+
+
+
+
+
 # Olá! Eu sou o Luan!
 
 - 💎  Estou trabalhando com flutter
@@ -5,11 +17,6 @@
 - 🎓  Cursando ADS/Fatec - RP
 - 🤵  21 anos
 - ⚽  Vasco da Gama
-
-
-<div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif](https://github.com/Luan-5ilva/Luan-5ilva/assets/104392743/af49fbd5-1a67-47d9-843e-13a9b6d63f4e)" width="700px" />
-</div>
 
 
 <div align="center">
