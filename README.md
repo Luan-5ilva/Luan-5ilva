@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/Luan-5ilva/Luan-5ilva/assets/104392743/067a0714-149e-4890-be71-74ba37b5da2d" width="1000px" />
+<img src="https://github.com/Luan-5ilva/Luan-5ilva/assets/104392743/067a0714-149e-4890-be71-74ba37b5da2d" width="800px" />
 </div>
 
 
@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/Luan-5antos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-5ilva&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Luan-5ilva&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
 </div>
 
   ##
