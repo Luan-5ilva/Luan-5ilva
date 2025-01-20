@@ -6,10 +6,9 @@
 
 # Olá! Eu sou o Luan!
 
-- 💎  Estou trabalhando com flutter
-- 🌱  Atualmente estou aprendendo JavaScript
+- 🌱  Front End
 - 🎓  Cursando ADS/Fatec - RP
-- 🤵  21 anos
+- 🤵  22 anos
 - ⚽  Vasco da Gama
 
 
